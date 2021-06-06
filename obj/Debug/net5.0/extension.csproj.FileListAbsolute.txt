@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.exe
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.deps.json
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.runtimeconfig.json
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.runtimeconfig.dev.json
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.dll
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\ref\extension.dll
+C:\Users\hp\Desktop\extension\bin\Debug\net5.0\extension.pdb
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.AssemblyInfo.cs
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.dll
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\ref\extension.dll
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.pdb
+C:\Users\hp\Desktop\extension\obj\Debug\net5.0\extension.genruntimeconfig.cache
